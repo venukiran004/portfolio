@@ -1,8 +1,8 @@
-# venukiran004.github.io
+# portfolio
 
 Personal portfolio — Venukiran Sankar, AI &amp; Python engineer.
 
-**Live:** https://venukiran004.github.io
+**Live:** https://venukiran004.github.io/portfolio
 
 ## About the build
 
